@@ -1,0 +1,2 @@
+# JavaScriptStarterPack
+JavaScript start pack
