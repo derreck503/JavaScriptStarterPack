@@ -24,6 +24,7 @@
     <ol>
     <li>Build project by running: "node buildScripts/srcServer.js"</li>
     <li>Then in another terminal run: "lt --port 3000" replace 3000 with whatever port you specified in the serServer.js file and you will get a url to share the project.</li>
+    <li>You can also request a subdoman, if not being used currently, with: "lt --port 3000 --subdomain derreck:</li>
     </ol>
 </body>
 </html>
