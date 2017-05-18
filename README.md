@@ -17,14 +17,24 @@
     </ol>
     <h2>Run project with:</h2>
     <ul>
-    <li>"node buildScripts/srcServer.js"</li>
+    <li>"node start" or "node buildScripts/srcServer.js"</li>
     </ul>
     <h2>Share project using LocalTunnel</h2>
     <h3>Instructions:</h3>
     <ol>
-    <li>Build project by running: "node buildScripts/srcServer.js"</li>
+    <li>Build project by running: "node start" or "node buildScripts/srcServer.js"</li>
     <li>Then in another terminal run: "lt --port 3000" replace 3000 with whatever port you specified in the serServer.js file and you will get a url to share the project.</li>
     <li>You can also request a subdoman, if not being used currently, with: "lt --port 3000 --subdomain derreck:</li>
     </ol>
+    <h2>Stack:</h2>
+    <ul>
+    <li>Node</li>
+    <li>Express</li>
+    <li>LocalTunnel</li>
+    <li>NPMScripts</li>
+    <li>Git with Github</li>
+    <li>WebPack</li>
+    <li></li>
+    </ul>
 </body>
 </html>
