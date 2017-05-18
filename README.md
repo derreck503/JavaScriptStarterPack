@@ -16,9 +16,9 @@
         <li></li>
     </ol>
     <h2>Run project with:</h2>
-    <ol>
+    <ul>
     <li>"node buildScripts/srcServer.js"</li>
-    </ol>
+    </ul>
     <h2>Share project using LocalTunnel</h2>
     <h3>Instructions:</h3>
     <ol>
