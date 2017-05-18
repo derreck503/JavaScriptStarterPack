@@ -17,5 +17,12 @@
     <li>Check with "nsp check" command</li>
         <li></li>
     </ol>
+    <h2>Run project with: "node buildScripts/srcServer.js"<h2>
+    <h2>Share project using LocalTunnel</h2>
+    <h3>Instructions:</h3>
+    <ol>
+    <li>Build project by running: "node buildScripts/srcServer.js"</li>
+    <li>Then in another terminal run: "lt --port 3000" replace 3000 with whatever port you specified in the serServer.js file and you will get a url to share the project.</li>
+    </ol>
 </body>
 </html>
