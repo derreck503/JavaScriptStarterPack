@@ -17,7 +17,11 @@
     <li>Check with "nsp check" command</li>
         <li></li>
     </ol>
-    <h2>Run project with: "node buildScripts/srcServer.js"<h2>
+    <h2>Run project with:</h2>
+    <ol>
+    <li>"node buildScripts/srcServer.js"</li>
+    </ol>
+    
     <h2>Share project using LocalTunnel</h2>
     <h3>Instructions:</h3>
     <ol>
