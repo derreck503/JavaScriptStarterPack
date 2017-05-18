@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-<head></head>
-
-<body>
     <h1>JavaScript Starter Pack for Ubuntu</h1>
     <h3>Instalation Instructions:</h3>
     <ol>
@@ -22,12 +17,11 @@
     <ol>
     <li>"node buildScripts/srcServer.js"</li>
     </ol>
-    
+
     <h2>Share project using LocalTunnel</h2>
     <h3>Instructions:</h3>
     <ol>
     <li>Build project by running: "node buildScripts/srcServer.js"</li>
     <li>Then in another terminal run: "lt --port 3000" replace 3000 with whatever port you specified in the serServer.js file and you will get a url to share the project.</li>
     </ol>
-</body>
-</html>
+
