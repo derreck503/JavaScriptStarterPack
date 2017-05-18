@@ -40,6 +40,7 @@
     <h2>Notes:</h2>
     <ul>
     <li>NPM scripts work by pre/post conventions. Therefore "prestart" will run before "start" and "poststart" will run after "start".</li>
+    <li>Start script runs security check in parallel with start script.</li>
     <li></li>
     </ul>
 </body>
