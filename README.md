@@ -6,7 +6,7 @@
 <body>
     <h1>JavaScript Starter Pack for Ubuntu</h1>
     <h3>Instalation Instructions:</h3>
-    <ul>
+    <ol>
     <li>Update package manager: "sudo apt-get update"</li>
     <li>Install node with: "sudo apt-get install nodejs"</li>
     <li>Install npm with: "sudo apt-get install npm"</li>
@@ -16,12 +16,6 @@
     <li>Instal nsp to check for package vulnerabilities with: "sudo npm install -g nsp"</li>
     <li>Check with "nsp check" command</li>
         <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
+    </ol>
 </body>
 </html>
