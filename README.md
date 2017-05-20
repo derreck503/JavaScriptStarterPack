@@ -35,12 +35,15 @@
     <li>NPMScripts</li>
     <li>Git with Github</li>
     <li>WebPack</li>
+    <li>ESLint</li>
     <li></li>
     </ul>
     <h2>Notes:</h2>
     <ul>
     <li>NPM scripts work by pre/post conventions. Therefore "prestart" will run before "start" and "poststart" will run after "start".</li>
     <li>Start script runs security check in parallel with start script.</li>
+    <li>Source maps are used to debug bundles. Place a "debugger;' where you want and in chrom dev tools->source you will see the actual code!</li>
+    <li>Linters automate coding standards</li>
     <li></li>
     </ul>
 </body>
