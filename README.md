@@ -18,6 +18,7 @@
     <h2>Run project with:</h2>
     <ul>
     <li>"npm start" or "node buildScripts/srcServer.js"</li>
+    <li>Use "npm start -s" to run without messy console messages</li>
     </ul>
     <h2>Share project using LocalTunnel</h2>
     <h3>Instructions:</h3>
