@@ -37,6 +37,9 @@
     <li>Git with Github</li>
     <li>WebPack</li>
     <li>ESLint</li>
+    <li>Mocah for testing with JSDOM and Chair library</li>
+    <li></li>
+    <li></li>
     <li></li>
     </ul>
     <h2>Notes:</h2>
@@ -45,6 +48,8 @@
     <li>Start script runs security check in parallel with start script.</li>
     <li>Source maps are used to debug bundles. Place a "debugger;' where you want and in chrom dev tools->source you will see the actual code!</li>
     <li>Linters automate coding standards. Use "// eslint-disable-line no-console" and "/* eslint-disable no-console */"</li>
+    <li>To test run "npm run test". All files with the ".test.js" will excecute. Keep test together with js files for simplicity.</li>
+    <li></li>
     <li></li>
     <li></li>
     </ul>
