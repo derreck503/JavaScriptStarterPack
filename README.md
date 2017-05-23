@@ -44,7 +44,7 @@
     <li>NPM scripts work by pre/post conventions. Therefore "prestart" will run before "start" and "poststart" will run after "start".</li>
     <li>Start script runs security check in parallel with start script.</li>
     <li>Source maps are used to debug bundles. Place a "debugger;' where you want and in chrom dev tools->source you will see the actual code!</li>
-    <li>Linters automate coding standards</li>
+    <li>Linters automate coding standards. Use "// eslint-disable-line no-console" and "/* eslint-disable no-console */"</li>
     <li></li>
     <li></li>
     </ul>
