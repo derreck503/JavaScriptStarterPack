@@ -38,7 +38,7 @@
     <li>WebPack</li>
     <li>ESLint</li>
     <li>Mocah for testing with JSDOM and Chair library</li>
-    <li>Travis cli for continues integration testing</li>
+    <li>Travis cli for continues integration testing. Used with linux. Use Appveyor if on windows</li>
     <li></li>
     <li></li>
     </ul>
