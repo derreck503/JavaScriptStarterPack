@@ -37,7 +37,7 @@
     <li>Git with Github</li>
     <li>WebPack</li>
     <li>ESLint</li>
-    <li>Mocah for testing with JSDOM and Chair library</li>
+    <li>Mocha framework for testing with JSDOM headless dom helper and Chai assertion library</li>
     <li>Travis cli for continues integration testing. Used with linux. Use Appveyor if on windows</li>
     <li></li>
     <li></li>
